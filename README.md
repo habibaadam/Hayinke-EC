@@ -3,7 +3,7 @@ A simple e-commerce front end only product site to showcase beautiful beaded col
 
 ## Authors
 * Habiba Adam Salisu
-* Memory Mukounda
+* Memory Mukonda
 
 ## Technologies/Frameworks Used
 * Node-Js
